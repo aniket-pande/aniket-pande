@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aniket-pande
+- 👋 Hi, I’m Aniket
 - 👀 I’m interested in programming and sports
 - 🌱 I’m currently learning ror and react
 - 💞️ I’m looking to collaborate on anything Altizon wants me to
